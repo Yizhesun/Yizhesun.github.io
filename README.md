@@ -1,7 +1,10 @@
 ## Welcome - Yizhe Sun
 
-
 I am a developer.
+
+![sun](./images/123.png)
+
+
 
 
 ### Repository
